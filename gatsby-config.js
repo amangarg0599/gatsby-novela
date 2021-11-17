@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
+    title: `Pufflepost`,
+    name: `Pufflepost`,
+    siteUrl: `https://www.pufflepost.com`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
       heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
@@ -11,24 +11,25 @@ module.exports = {
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/amangarg0599`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/amangarg0599`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/amangarg._`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/amangarg0599/`,
       },
-      {
+      /*{
         name: `dribbble`,
         url: `https://dribbble.com/narativestudio`,
       },
+      */
     ],
   },
   plugins: [
