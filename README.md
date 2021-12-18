@@ -66,6 +66,9 @@ yarn proxy
 
 ### Help
 
+<<<<<<< HEAD
 If you don't have _yarn_ installed follow the [yarn getting started guide](https://classic.yarnpkg.com/en/docs/getting-started)
 
+=======
+>>>>>>> parent of 7330e7e (Merge pull request #11 from jantonioavalos/master)
 For more information visit the [Theme repository](https://github.com/narative/gatsby-theme-novela)
